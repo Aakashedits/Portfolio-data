@@ -1,0 +1,122 @@
+[
+    {
+        genre: "SHORT FILMS",
+        items : [
+            {
+                title: "The Last Call",
+                thumbnail: img2,
+                video: vid1,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "SHORT FILMS",
+            },
+            {
+                title: "The Last Call",
+                thumbnail: img1,
+                video: vid2,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "SHORT FILMS",
+            },
+            {
+                title: "The Last Call",
+                thumbnail: img3,
+                video: vid3,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "SHORT FILMS",
+            },
+            {
+                title: "The Last Call",
+                thumbnail: img2,
+                video: vid4,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "SHORT FILMS",
+            },
+            {
+                title: "The Last Call",
+                thumbnail: img1,
+                video: vid5,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "SHORT FILMS",
+            },
+        ]
+    },
+    {
+        genre: "MUSIC VIDEOS",
+        items : [
+            {
+                title: "Lost in the Beat",
+                thumbnail: img1,
+                video: vid6,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "MUSIC VIDEOS",
+            },
+            {
+                title: "Lost in the Beat",
+                thumbnail: img2,
+                video: vid7,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "MUSIC VIDEOS",
+            },
+            {
+                title: "Lost in the Beat",
+                thumbnail: img3,
+                video: vid1,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "MUSIC VIDEOS",
+            },
+            {
+                title: "Lost in the Beat",
+                thumbnail: img1,
+                video: vid2,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "MUSIC VIDEOS",
+            },
+            {
+                title: "Lost in the Beat",
+                thumbnail: img2,
+                video: vid2,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "MUSIC VIDEOS",
+            },
+        ]
+    },
+    {
+        genre: "YOUTUBE CONTENT",
+        items : [
+            {
+                title: "Behind the Scenes",
+                thumbnail: img3,
+                video: vid4,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "YOUTUBE CONTENT",
+            },
+            {
+                title: "Behind the Scenes",
+                thumbnail: img1,
+                video: vid5,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "YOUTUBE CONTENT",
+            },
+            {
+                title: "Behind the Scenes",
+                thumbnail: img2,
+                video: vid6,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "YOUTUBE CONTENT",
+            },
+            {
+                title: "Behind the Scenes",
+                thumbnail: img3,
+                video: vid7,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "YOUTUBE CONTENT",
+            },
+            {
+                title: "Behind the Scenes",
+                thumbnail: img1,
+                video: vid1,
+                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
+                genre: "YOUTUBE CONTENT",
+            },
+        ]
+    },
+]
