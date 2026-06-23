@@ -1,122 +1,22 @@
 [
     {
-        genre: "SHORT FILMS",
+        genre: "PODCAST",
         items : [
             {
                 title: "The Last Call",
-                thumbnail: img2,
-                video: vid1,
+                thumbnail: "https://res.cloudinary.com/dbyzyzx7p/image/upload/v1782216038/maxresdefault_1_vedj6n.jpg",
+                video: "https://www.youtube.com/embed/v316THy95xA?si=1Mm2njL9OUl9r4wW",
                 summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "SHORT FILMS",
+                genre: "PODCAST",
             },
             {
                 title: "The Last Call",
-                thumbnail: img1,
-                video: vid2,
+                thumbnail: "https://res.cloudinary.com/dbyzyzx7p/image/upload/v1782215993/maxresdefault_p85j9t.jpg",
+                video: "https://www.youtube.com/embed/WRQCwb92_TE?si=yuzMVAkgip63g4eN",
                 summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "SHORT FILMS",
-            },
-            {
-                title: "The Last Call",
-                thumbnail: img3,
-                video: vid3,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "SHORT FILMS",
-            },
-            {
-                title: "The Last Call",
-                thumbnail: img2,
-                video: vid4,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "SHORT FILMS",
-            },
-            {
-                title: "The Last Call",
-                thumbnail: img1,
-                video: vid5,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "SHORT FILMS",
+                genre: "PODCAST",
             },
         ]
     },
-    {
-        genre: "MUSIC VIDEOS",
-        items : [
-            {
-                title: "Lost in the Beat",
-                thumbnail: img1,
-                video: vid6,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "MUSIC VIDEOS",
-            },
-            {
-                title: "Lost in the Beat",
-                thumbnail: img2,
-                video: vid7,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "MUSIC VIDEOS",
-            },
-            {
-                title: "Lost in the Beat",
-                thumbnail: img3,
-                video: vid1,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "MUSIC VIDEOS",
-            },
-            {
-                title: "Lost in the Beat",
-                thumbnail: img1,
-                video: vid2,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "MUSIC VIDEOS",
-            },
-            {
-                title: "Lost in the Beat",
-                thumbnail: img2,
-                video: vid2,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "MUSIC VIDEOS",
-            },
-        ]
-    },
-    {
-        genre: "YOUTUBE CONTENT",
-        items : [
-            {
-                title: "Behind the Scenes",
-                thumbnail: img3,
-                video: vid4,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "YOUTUBE CONTENT",
-            },
-            {
-                title: "Behind the Scenes",
-                thumbnail: img1,
-                video: vid5,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "YOUTUBE CONTENT",
-            },
-            {
-                title: "Behind the Scenes",
-                thumbnail: img2,
-                video: vid6,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "YOUTUBE CONTENT",
-            },
-            {
-                title: "Behind the Scenes",
-                thumbnail: img3,
-                video: vid7,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "YOUTUBE CONTENT",
-            },
-            {
-                title: "Behind the Scenes",
-                thumbnail: img1,
-                video: vid1,
-                summary: "asudhn aosuh weowouvbweorug woiefb owefbwoebfwoeu fbowueb fvouwefvowehb owev b",
-                genre: "YOUTUBE CONTENT",
-            },
-        ]
-    },
+           ]
 ]
