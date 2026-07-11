@@ -98,5 +98,18 @@
         "length": "18:48"
       }
     ]
+  },
+  {
+    "genre": "SOCIAL COMMENTARY",
+    "items": [
+      {
+        "title": "WHY MEN ARE SCARED OF MARRIAGE",
+        "thumbnail": "https://res.cloudinary.com/dbyzyzx7p/image/upload/v1783775122/WhatsApp_Image_2026-07-11_at_3.27.28_PM_i6wiea.webp",
+        "video": "https://www.youtube.com/embed/4rC8ftcHQ5I?si=GZU0_VSZ8C-XFZwh",
+        "summary": "I directed and edited this video with a heavy focus narrative flow that places the viewer right in the center of the experience, and added some basic graphic design with News Article Animination.",
+        "genre": "SOCIAL COMMENTARY",
+        "length": "09:38"
+      }
+    ]
   }
 ]
